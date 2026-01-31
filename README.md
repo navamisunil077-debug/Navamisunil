@@ -49,6 +49,21 @@ Enables users to share expense data via messaging applications
 Used for integrating Google Sheets
 
 Helps in storing and syncing expense data online
+Working Flow of the Expense Analyser App
+
+User Registration
+
+New users create an account using the Signup option.
+
+User credentials are stored securely using TinyDB.
+
+User Login
+
+Registered users log in using their username and password.
+
+Authentication is verified using data stored in TinyDB.
+
+Upon successful login, the user is redirected to the main dashboard.
 
 🔹 Map Component
 
