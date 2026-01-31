@@ -49,13 +49,14 @@ Shows the location of expenses using latitude and longitude
 Helps users track where expenses are incurred
 
 Working Flow of the Expense Analyser App
-User Registration
+
+.User Registration
 
 New users create an account using the Signup option.
 
 User credentials are stored securely using TinyDB.
 
- User Login
+.User Login
 
 Registered users log in using their username and password.
 
@@ -63,7 +64,7 @@ Authentication is verified using data stored in TinyDB.
 
 Upon successful login, the user is redirected to the main dashboard.
 
-Location Tracking
+.Location Tracking
 
 The app get by entering latitude and longitude.
 
@@ -77,9 +78,7 @@ Category-wise and total monthly expenses are calculated.
 
 Results are displayed for user analysis.
 
-Data Sharing 
+.Data Sharing 
 
 Expense data can be shared using the Sharing component.
 
-Data can also be synced to Google Sheets using the Web component.
-Results are displayed to the user for analysis.
