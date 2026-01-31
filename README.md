@@ -54,4 +54,4 @@ Helps in storing and syncing expense data online
 
 Shows the location of expenses using latitude and longitude
 
-Helps users track where expenses are incurre
+Helps users track where expenses are incurred
